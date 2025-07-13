@@ -1,16 +1,30 @@
-## Hi there 👋
+<h2>Hi, I'm m1key <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m1keydev-tech/m1keydev-tech/main/assets/img/m1keydev-tech-banner.gif" alt="myself.." style="margin-bottom: 30px;" />
+</p>
 
-<!--
-**m1keydev-tech/m1keydev-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a **Frontend Developer** passionate about crafting pixel-perfect UIs with
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24"/>
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24" />
+  </a>
+</div>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There is a land where I share toys and have a break. [🔗 Explore my playground](https://github.com/m1keydev-tech?tab=repositories)
+
+⚙️ I use daily: `.js`, `.ts`, `.php`, `.html`, `.css`, `.psd`, `.ai`, `...`
+<br />
+🌱 Currently exploring: **Web3**, **Blockchain fundamentals**
+<br />
+💬 Ask me about: **Frontend architecture**, **UI/UX optimization**
+<br />
+📫 How to reach me: [m1keydev-tech@gmail.com](mailto:m1keydev-tech@gmail.com)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1keydev-tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
