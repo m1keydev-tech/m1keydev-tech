@@ -2,9 +2,6 @@
 <h1>Hi, I'm m1key 👊🏻</h2>
   <h4><img src="https://github.githubassets.com/images/mona-whisper.gif" height="48" /></h1>
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/m1keydev-tech/m1keydev-tech/main/assets/img/m1keydev-tech-banner.gif" alt="myself.." style="width: 100%; height: 100%;object-fit:cover; margin-bottom: 30px;" />
-</p>
 
 ### I'm a **Frontend Developer** passionate about crafting pixel-perfect UIs with
 
@@ -17,6 +14,10 @@
   </a>
 </div>
 <br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m1keydev-tech/m1keydev-tech/main/assets/img/m1keydev-tech-banner.gif" alt="myself.." style="width: 80%; height: 100%;object-fit:cover; margin-bottom: 30px;" />
+</p>
 
 There is a land where I share toys and have a break. [🔗 Explore my playground](https://github.com/m1keydev-tech?tab=repositories)
 
