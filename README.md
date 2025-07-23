@@ -16,7 +16,7 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m1keydev-tech/m1keydev-tech/main/assets/img/m1keydev-tech-banner.gif" alt="myself.." style="width: 80%; height: 100%;object-fit:cover; margin-bottom: 30px;" />
+  <img src="https://raw.githubusercontent.com/m1keydev-tech/m1keydev-tech/main/assets/img/m1keydev-tech-banner.gif" alt="myself.." style="width: 100%; height: 100%;object-fit:cover; margin-bottom: 30px;" />
 </p>
 
 There is a land where I share toys and have a break. [🔗 Explore my playground](https://github.com/m1keydev-tech?tab=repositories)
