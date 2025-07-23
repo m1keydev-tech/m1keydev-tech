@@ -21,7 +21,7 @@
 
 There is a land where I share toys and have a break. [🔗 Explore my playground](https://github.com/m1keydev-tech?tab=repositories)
 
-⚙️ I use daily: `.js`, `.ts`, `.php`, `.html`, `.css`, `.psd`, `.ai`, `...`
+⚙️ I use daily: `.js`, `.ts`, `.php`, `.html`, `.css`, `.psd`, `...`
 <br />
 🌱 Currently exploring: **Web3**, **Blockchain fundamentals**
 <br />
