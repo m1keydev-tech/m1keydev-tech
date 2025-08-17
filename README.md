@@ -23,7 +23,7 @@ There is a land where I share toys and have a break. [🔗 Explore my playground
 
 ⚙️ I use daily: `.js`, `.ts`, `.php`, `.html`, `.css`, `.psd`, `...`
 <br />
-🌱 Currently exploring: **Web3**, **Blockchain fundamentals**
+🌱 Currently exploring: **Real Estate Tech**, **Digital Marketing**, **CRM Systems**  
 <br />
 💬 Ask me about: **Frontend architecture**, **UI/UX optimization**
 <br />
