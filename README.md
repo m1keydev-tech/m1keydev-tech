@@ -23,7 +23,7 @@ There is a land where I share toys and have a break. [🔗 Explore my playground
 
 ⚙️ I use daily: `.js`, `.ts`, `.php`, `.html`, `.css`, `.psd`, `...`
 <br />
-🌱 Currently exploring: **Real Estate Tech**, **Digital Marketing**, **CRM Systems**  
+🌱 Currently exploring: **Real Estate Tech**, **Digital Marketing**, **CRM|HRM Systems**  
 💬 Ask me about: **Frontend architecture**, **UI/UX optimization**
 <br />
 📫 How to reach me: [m1keydev-tech@gmail.com](mailto:m1keydev-tech@gmail.com)
