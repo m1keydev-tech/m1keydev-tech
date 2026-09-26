@@ -1,6 +1,9 @@
 <div align="center">
-<h1>Hi, I'm m1key 👊🏻</h2>
-  <h4><img src="https://github.githubassets.com/images/mona-whisper.gif" height="48" /></h1>
+  <h1>Hi, I'm m1key 👊🏻</h1>
+  <img
+    src="https://github.githubassets.com/images/mona-whisper.gif"
+    height="48"
+  />
 </div>
 
 ### I'm a **Frontend Developer** passionate about crafting pixel-perfect UIs with
@@ -31,7 +34,11 @@ There is a land where I share toys and have a break. [🔗 Explore my playground
 <br />
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1keydev-tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1keydev-tech&layout=compact&langs_count=8)](https://github.com/m1keydev-tech)
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
