@@ -52,7 +52,7 @@
   <img
     src="https://raw.githubusercontent.com/m1keydev-tech/m1keydev-tech/main/assets/img/m1keydev-tech-banner.gif"
     alt="m1key banner"
-    width="100%"
+    width="55%"
   />
 </p>
 
@@ -65,7 +65,7 @@ There is a land where I share toys and have a break.
 
 ⚙️ I use daily: `.js`, `.ts`, `.tsx`, `.php`, `.html`, `.css`, `.psd`, `...`
 
-🌱 Currently exploring: **Real Estate Tech**, **Digital Marketing**, **CRM | HRM Systems**
+🌱 Currently exploring: **Real Estate Tech**, **Digital Marketing**, **CRM | HRM | TMS | RealEstate CMS Systems**
 
 💬 Ask me about: **Frontend Architecture**, **UI/UX Optimization**
 
@@ -81,7 +81,7 @@ There is a land where I share toys and have a break.
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m1keydev-tech&theme=tokyonight"
-  width="100%"
+  width="85%"
   alt="GitHub Profile Details"
 />
 
@@ -90,28 +90,22 @@ There is a land where I share toys and have a break.
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m1keydev-tech&theme=tokyonight"
-  height="180"
+  width="24%"
   alt="Repositories Per Language"
 />
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m1keydev-tech&theme=tokyonight"
-  height="180"
+  width="24%"
   alt="Most Commit Language"
 />
-
-<br />
-<br />
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m1keydev-tech&theme=tokyonight"
-  height="180"
+  width="24%"
   alt="GitHub Stats"
 />
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m1keydev-tech&theme=tokyonight&utcOffset=7"
-  height="180"
+  width="24%"
   alt="Productive Time"
 />
 
@@ -137,6 +131,7 @@ There is a land where I share toys and have a break.
   <img
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+    width="85%"
   />
 </picture>
 
